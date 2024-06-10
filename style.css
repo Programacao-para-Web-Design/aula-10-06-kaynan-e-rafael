@@ -1,10 +1,12 @@
 h1{
-  font-size:16px;
+  font-size:20px;
   text-align:center;
+  font-weight: bold; 		
 }
 footer{
 text-align:center;
 font-size:12px;
+font-style:italic;
 }
 img{
 width: 320x;
