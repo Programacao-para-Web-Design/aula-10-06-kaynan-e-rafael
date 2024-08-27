@@ -12,7 +12,7 @@ img{
 width: 320x;
 height:205px;
 right:100px;
-
+width: 75%;
 }
 header{
 	text-align: center;
@@ -26,6 +26,8 @@ body{
 main{
 	display: flex;
 	margin-top: 10px;
+	text-align: center;
+	
 }
           #blocos{
 		background-color: rgb(221, 36, 221);
