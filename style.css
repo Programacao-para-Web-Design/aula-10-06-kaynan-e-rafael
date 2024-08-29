@@ -42,7 +42,7 @@
 		}
 
 		header{
-            		background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -webkit-gradient(linear, left top, right top, from(#FF0000), to(#DF0101)) no-repeat;
             		background: -moz-linear-gradient(left, #505569, #031c7a);
             		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
@@ -53,7 +53,7 @@
 
 		#Progwebparwebdesign{
 
-			background-color: purple;
+			background-color: red;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -65,7 +65,7 @@
 		}
 		#Desenvdegames{
 
-			background-color: purple;  
+			background-color: red;  
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -76,7 +76,7 @@
 		}
 		#Analprogdesis{
 			
-			background-color: purple;
+			background-color: red;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -107,9 +107,9 @@
 
 		#baixo{
 
-		    	background-color: purple;
+		    	background-color: red;
 			width: 100%;
-        		color: black;
+        		color: white;
 			position: absolut;
         
 		}
