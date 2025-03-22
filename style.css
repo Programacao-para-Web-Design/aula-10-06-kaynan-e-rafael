@@ -1,0 +1,139 @@
+#dev{
+
+			font-size:: 12px;
+			text-align: center;
+			font-style: italic;
+			
+		}
+		#ceemti{
+
+			background: -webkit-gradient(linear, left top, right top, from(#FF0000), to(#DF0101)) no-repeat;
+            		background: -moz-linear-gradient(left, #FF0000, #DF0101);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			
+		}
+		main{
+			max-width: 75%;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+						
+		}
+		body{
+			background-color: black;
+		}
+
+		.Aula{
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
+		.materia{
+
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+			
+		}
+
+		header{
+            		background: -webkit-gradient(linear, left top, right top, from(#000000), to(#DF0101)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+		}
+
+		#Progwebparwebdesign{
+
+			background-color: red;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+			
+		}
+		#Desenvdegames{
+
+			background-color: red;  
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
+		#Analprogdesis{
+			
+			background-color: red;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			margin: 0 auto;
+			max-width: 95%;
+			
+		}
+
+		#123{
+	    
+			display: flex;
+			background-color: #FF0000;
+			box-shadow: 7px 7px 9px 0px black;
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+			justify-content: center;
+			pading: 2px;
+		        
+		}
+
+		.nome{
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+		}
+
+		#baixo{
+
+		    	background-color: red;
+			width: 100%;
+        		color: white;
+			position: absolut;
+        
+		}
+			@media screen and (max-width: 1200px){
+				img{
+		                	width: 400px;
+		                	height: 400px;
+		                	}
+		            }
+			@media screen and (max-width: 760px){
+		                img{
+		                	width: 400px;
+		                	height: 400px;
+		                	}
+		            }
+			@media screen and (max-width: 200px){
+		                img{
+		                	width: 300px;
+		                	height: 300px;
+		                	}
+		            }
+			@media screen and (max-width: 100px){
+		                img{
+		                	width: 200px;
+		                	height: 200px;
+		                	}
+		            }
